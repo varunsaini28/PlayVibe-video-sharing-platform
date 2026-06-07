@@ -3,6 +3,8 @@
 > A YouTube-inspired video sharing platform built from scratch with React, Node.js, and MongoDB. Upload videos & shorts, engage with creators, and manage your content — all in one place.
 
 ![PlayVibe Banner](https://res.cloudinary.com/demo/image/upload/w_1200,h_400,c_fill,g_auto/sample.jpg)
+<img width="1717" height="916" alt="image" src="https://github.com/user-attachments/assets/bee80a8a-40ac-4f71-bea6-0648f425732f" />
+
 
 ---
 
