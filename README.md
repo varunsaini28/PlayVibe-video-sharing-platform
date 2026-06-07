@@ -193,17 +193,7 @@ VITE_SERVER_URL=http://localhost:8000
 npm run dev
 ```
 
----
 
-## 📸 Screenshots
-
-> *(Add your screenshots here)*
-
-| Home Feed | Watch Page | Creator Studio |
-|-----------|------------|----------------|
-| ![home]() | ![watch]() | ![studio]() |
-
----
 
 ## 🧠 What I Learned
 
@@ -221,4 +211,4 @@ MIT © [Varun Saini](https://github.com/varunsaini28)
 
 ---
 
-<p align="center">Built with ❤️ by Varun Saini</p>
+<p align="center">Built by Varun Saini</p>
