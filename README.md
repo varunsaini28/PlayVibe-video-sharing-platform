@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[PlayVibe](https://playvibe-video-sharing-platform-1clinet.onrender.com/)** &nbsp;|&nbsp; 📦 **[GitHub Repo](https://github.com/varunsaini28/playvibe)**
+🔗 **[PlayVibe](https://playvibe-video-sharing-platform-1clinet.onrender.com/)** &nbsp;|&nbsp; 📦 **[GitHub Repo](https://github.com/varunsaini28/PlayVibe-video-sharing-platform.git)**
 
 ---
 
