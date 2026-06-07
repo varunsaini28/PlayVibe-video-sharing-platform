@@ -1,4 +1,4 @@
-export const serverUrl = "http://localhost:8000";
+export const serverUrl = "https://playvibe-video-sharing-platform.onrender.com";
 export const CHUNK_SIZE = 10 * 1024 * 1024; // 10 MB
 export const MAX_VIDEO_BYTES = 5 * 1024 * 1024 * 1024; // 5 GB
 export const ALLOWED_VIDEO_TYPES = [
